@@ -4,6 +4,8 @@ A React + D3 bubble plot of the Gapminder dataset (2007): GDP per capita against
 bubble per country, colored by continent and sized by population. It's the Axes module project
 from the [D3 ❤️ React course](https://www.react-graph-gallery.com/react-d3-dataviz-course).
 
+Live: <https://j-sirgo.github.io/gapminder-bubble/>
+
 The angle: **the Preston curve and its exceptions.** A fitted curve (life expectancy on log₂ GDP,
 about +5 years per doubling of income) shows the life expectancy expected for each income, and
 vertical stems mark the countries furthest above and below it. A top axis converts income to
